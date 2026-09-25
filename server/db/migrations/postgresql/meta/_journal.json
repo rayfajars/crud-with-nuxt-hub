@@ -22,6 +22,20 @@
       "when": 1790331457179,
       "tag": "0002_drop_phone",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1790332678547,
+      "tag": "0003_workable_galactus",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1790332717515,
+      "tag": "0004_omniscient_photon",
+      "breakpoints": true
     }
   ]
 }
