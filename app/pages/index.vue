@@ -120,7 +120,6 @@ function extractError(err: unknown): string {
 
 <template>
   <main class="wrap">
-    <h1>Users CRUD (NuxtHub research)</h1>
 
     <section class="card">
       <h2>Create user</h2>
